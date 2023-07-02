@@ -1,0 +1,29 @@
+#game
+{
+    font-family: "Bahnschrift";
+    background-color: gray;
+    border: 5px solid ;
+    border-radius: 25px;
+    text-align: center;
+
+
+}
+#player
+{
+    color: darkred;
+}
+#computer
+{
+    color: darkblue;
+}
+#result
+{
+    color: lightblue;
+}
+button
+{
+    line-height: 30px;
+    width: 200px;
+    cursor: pointer;
+    cursor: pointer;
+}
